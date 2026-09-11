@@ -390,6 +390,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Adaptive Budgeting and Control
 
+* (2026-06) [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) [![Star](https://img.shields.io/github/stars/shubhamrgandhi/critic-training.svg?style=social&label=Star)](https://github.com/shubhamrgandhi/critic-training)
 * (2026-03) [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](https://arxiv.org/abs/2603.07915) 
 * (2026-03) [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [![Star](https://img.shields.io/github/stars/MAC-AutoML/SpecEyes.svg?style=social&label=Star)](https://github.com/MAC-AutoML/SpecEyes) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-02) [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents ](https://arxiv.org/abs/2602.12662)  [![Star](https://img.shields.io/github/stars/rhyang2021/CogRouter.svg?style=social)](https://github.com/rhyang2021/CogRouter)
